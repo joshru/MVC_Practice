@@ -8,12 +8,11 @@ import java.net.URI;
 public class Instructor {
     public String mName;
     public String mTitle;
-//    public URI mImage;
     public String mEmail;
     public String mPhone;
     public String mOffice;
     public String mBio;
-
+//    public URI mImage;
 
     public Instructor(final String theName, final String theTitle, final String theEmail,
                       final String thePhone, final String theOffice, final String theBio) {
