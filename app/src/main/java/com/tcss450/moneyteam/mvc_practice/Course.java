@@ -9,12 +9,14 @@ public class Course {
     public String mCID;
     public String mSDes;
     public String mLDes;
-//    public ArrayList<Course> mPrereqs;
+    public String mPrereqs;
 
 
-    public Course(final String theCID, final String theSDes, final String theLDes) {
+    public Course(final String theCID, final String theSDes, final String theLDes,
+                  final String thePrereqs) {
         mCID = theCID;
         mSDes = theSDes;
         mLDes = theLDes;
+        mPrereqs = thePrereqs;
     }
 }
