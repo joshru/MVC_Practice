@@ -3,4 +3,16 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="TCCS142">TCSS 142</string>
+    <string name="TCSS143">TCSS 143</string>
+    <string name="TCSS305">TCSS 305</string>
+    <string name="TCSS321">TCSS 321</string>
+
+    <string name="Joel">Joel Larson</string>
+    <string name="David">David Schuessler</string>
+    <string name="Alan">Alan Fowler</string>
+    <string name="Ingrid">Ingrid Horakova</string>
+
+
 </resources>
